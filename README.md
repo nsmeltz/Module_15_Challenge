@@ -7,6 +7,8 @@
     impact on the mpg rating of a car. 
     
   - **Is the slope of the linear model considered to be zero? Why or why not?**                                   
-    The slope of the linear model is not zero, because there is a significant linear relationship between the independent varaiables (vehicle length and ground clearance) and the dependenct variable (mpg)
+    The slope of the linear model is not zero, because there is a significant linear relationship between the independent varaiables (vehicle length and ground
+    clearance) and the dependenct variable (mpg)
 
   - **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
+    Yes, this linear model predicts mpg well becasue the r squared value is 0.7149 which puts it in the moderate correlation category. 
