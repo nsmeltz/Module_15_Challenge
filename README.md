@@ -1,7 +1,7 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
-
+![linearmodel](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/linearmodel.jpg)
 
   - **Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**                               
     According to the Pr(>|t|) column the intercept, vehicle length, and ground clearance are all less than 0.05. This means that probalibliy of these variable
@@ -17,6 +17,14 @@
 
 
 ## Summary Statistics on Suspension Coils
+
+**Suspension PSI Data Summary**
+![total_summary](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/total_summary.jpg)
+
+**Suspension PSI Data Summary by Manufacturing Lot**
+![lot_summary](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/lot_summary.jpg)
+
+
 write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
 
   - **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the
