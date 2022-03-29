@@ -30,3 +30,12 @@
       investigating individual lots though I found that Lot 3's variance exceed the limit and needs to be looked into. 
     
 ## T-Tests on Suspension Coils
+
+**Is PSI across all manufacturing lots is statistically different from the population mean?**
+![T-Test All](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/ttest_all.jpg)
+
+**Is Lot 1 PSI lots is statistically different from the population mean?**
+
+**Is Lot 2 PSI lots is statistically different from the population mean?**
+
+**Is Lot 3 PSI lots is statistically different from the population mean?**
