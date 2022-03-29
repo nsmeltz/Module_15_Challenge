@@ -35,7 +35,10 @@
 ![T-Test All](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_all.jpg)
 
 **Is Lot 1 PSI lots is statistically different from the population mean?**
+![T-Test Lot 1](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot1.jpg)
 
 **Is Lot 2 PSI lots is statistically different from the population mean?**
+![T-Test Lot 2](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot2.jpg)
 
 **Is Lot 3 PSI lots is statistically different from the population mean?**
+![T-Test Lot 3](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot3.jpg)
