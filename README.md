@@ -32,7 +32,7 @@
 ## T-Tests on Suspension Coils
 
 **Is PSI across all manufacturing lots is statistically different from the population mean?**
-![T-Test All](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/ttest_all.jpg)
+![T-Test All](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_all.jpg)
 
 **Is Lot 1 PSI lots is statistically different from the population mean?**
 
