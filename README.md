@@ -16,7 +16,7 @@
       Yes, this linear model predicts mpg well becasue the r squared value is 0.7149 which puts it in the moderate correlation category. 
 
 
-## Summary Statistics on Suspension Coils
+## Summary Statistics on Suspension Coil PSI
 
 **Suspension PSI Data Summary**                         
 ![total_summary](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/total_summary.jpg)
