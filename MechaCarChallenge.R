@@ -17,3 +17,17 @@ summary(model)
 # read in dataset
 suspension <- read.csv(file = 'Data/Suspension_Coil.csv')
 
+# PSI data summary
+total_summary <- 
+  suspension %>% 
+  summarize(Mean = mean(PSI), Median = median(PSI), Variance= var(PSI), SD=sd(PSI))
+
+# PSI data summary by lot
+lot_summary <-
+  suspension %>%
+  group_by(Manufacturing_Lot) %>%
+  summarize(Mean = mean(PSI), Median = median(PSI), Variance= var(PSI), SD=sd(PSI))
+
+# ------------------------ t-Tests ---------------------------------------
+
+                                          
