@@ -54,3 +54,5 @@
 
  - The Lot 3 PSI is not statistically different from the population mean because the p-value = 0.1589 which is more than our siginificance level
     of 0.05. 
+    
+## Study Design: MechaCar vs Competition
