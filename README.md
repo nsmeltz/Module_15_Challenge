@@ -18,10 +18,10 @@
 
 ## Summary Statistics on Suspension Coils
 
-**Suspension PSI Data Summary**
+**Suspension PSI Data Summary**                         
 ![total_summary](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/total_summary.jpg)
 
-**Suspension PSI Data Summary by Manufacturing Lot**
+**Suspension PSI Data Summary by Manufacturing Lot**                            
 ![lot_summary](https://github.com/nsmeltz/Module_15_Challenge/blob/d91b0f135c2e69c5bba27c4811f837824c3713a0/Images/lot_summary.jpg)
 
 
