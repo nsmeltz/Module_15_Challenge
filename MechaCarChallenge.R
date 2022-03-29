@@ -30,4 +30,23 @@ lot_summary <-
 
 # ------------------------ t-Tests ---------------------------------------
 
-                                          
+# PSI across all manufacturing lots vs the population mean
+t.test(suspension$PSI, mu = total_summary$Mean)
+
+# Lot 1 PSI vs the population mean
+lot1 <- suspension %>% 
+        filter(Manufacturing_Lot == "Lot1")
+
+t.test(lot1$PSI, mu= total_summary$Mean)
+
+# Lot 2 PSI vs the population mean
+lot2 <- suspension %>% 
+        filter(Manufacturing_Lot == "Lot2")
+
+t.test(lot2$PSI, mu= total_summary$Mean)
+
+# Lot 3 PSI vs the population mean
+lot3 <- suspension %>% 
+  filter(Manufacturing_Lot == "Lot3")
+
+t.test(lot3$PSI, mu= total_summary$Mean)                                    
