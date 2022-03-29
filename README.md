@@ -56,9 +56,4 @@
     of 0.05. 
     
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-  - What metric or metrics are you going to test?
-  - What is the null hypothesis or alternative hypothesis?
-  - What statistical test would you use to test the hypothesis? And why?
-  - What data is needed to run the statistical test?
+  I want to investigate how MechaCar ranks vs its competitors on cost and safety rating. My hypothesis is that cost will increase with increasing safety rating (ie a positive linear relationship). The null hypothesis is that there is no relationship between cost and safety rating. I would perform a linear regression to see if there is a linear relationship between cost and safety rating for MechaCar and repeat the regression for a competitors data. If the absolute value of the r squared is greater than or equal to 0.05 then a liner relationship exists between cost and saftey rating. 
