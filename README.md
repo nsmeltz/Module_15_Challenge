@@ -31,25 +31,25 @@
     
 ## T-Tests on Suspension Coils
 
-**Is PSI across all manufacturing lots is statistically different from the population mean?**
+**Is PSI across all manufacturing lots is statistically different from the population mean?**                                   
 ![T-Test All](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_all.jpg)
 
   - The PSI across all manufacturing lots is not statistically different than the population mean because the p-value = 1 which is greater than our siginificance level
     of 0.05. 
 
-**Is Lot 1 PSI statistically different from the population mean?**
+**Is Lot 1 PSI statistically different from the population mean?**                                        
 ![T-Test Lot 1](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot1.jpg)
 
   - The Lot 1 PSI is statistically different from the population mean because the p-value = 1.568e-11 which is much less than our siginificance level
     of 0.05. 
 
-**Is Lot 2 PSI statistically different from the population mean?**
+**Is Lot 2 PSI statistically different from the population mean?**                                
 ![T-Test Lot 2](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot2.jpg)
 
   - The Lot 2 PSI is statistically different from the population mean because the p-value= 0.0005911 which is less than our siginificance level
     of 0.05. 
 
-**Is Lot 3 PSI statistically different from the population mean?**
+**Is Lot 3 PSI statistically different from the population mean?**                           
 ![T-Test Lot 3](https://github.com/nsmeltz/Module_15_Challenge/blob/5e00eb2acba10e6b15515cb459a854c9cac93b9d/Images/ttest_lot3.jpg)
 
  - The Lot 3 PSI is not statistically different from the population mean because the p-value = 0.1589 which is more than our siginificance level
