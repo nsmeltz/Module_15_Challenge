@@ -29,3 +29,4 @@
       Overall the current manufacturing data shows that the variance is ~62.29 pounds per square inch across all lots, which meets design specifications. After
       investigating individual lots though I found that Lot 3's variance exceed the limit and needs to be looked into. 
     
+## T-Tests on Suspension Coils
