@@ -1,6 +1,8 @@
 # MechaCar Statistical Analysis
 
 ## Linear Regression to Predict MPG
+
+
   - **Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?**                               
     According to the Pr(>|t|) column the intercept, vehicle length, and ground clearance are all less than 0.05. This means that probalibliy of these variable
     contributing random variance to the mpg rating of the car is small. In other words, this implies that the vehicle length and ground clearance have a significant
@@ -12,3 +14,10 @@
 
   - **Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?**
     Yes, this linear model predicts mpg well becasue the r squared value is 0.7149 which puts it in the moderate correlation category. 
+
+
+## Summary Statistics on Suspension Coils
+write a short summary using screenshots from your total_summary and lot_summary dataframes, and address the following question:
+
+  - **The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the
+    current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
